@@ -20,5 +20,9 @@ public void m1()
 	{
 		System.out.println("This is M3");
 	}
+	public void m4()
+	{
+		System.out.println("Welcome to M3");
+	}
 	
 }
